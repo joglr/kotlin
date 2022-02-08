@@ -27,4 +27,13 @@ fun main(args: Array<String>) {
   for (d in descendents) {
     println(d.name)
   }
+
+  println("")
+  println("Not descendents of Eve")
+
+  val notDescendents = people.filter({ it.mother !== peopleMap["Eve"] })
+
+  for (d in notDescendents) {
+    println(d.name)
+  }
 }
