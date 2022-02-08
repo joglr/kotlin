@@ -1,2 +1,1 @@
-@REM Call the kotlinc with all arguments
-kotlinc -nowarn -script %*
+kotlinc %1.kt -include-runtime -d %1.jar %*
