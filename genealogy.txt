@@ -1,0 +1,10 @@
+Eve	5780	God
+Adam	5780	God
+Cain	5760	Eve
+Abel	5755	Eve
+Seth	5750	Eve
+Awan	5745	Eve
+Azura	5740	Eve
+Aclima	5735	Eve
+Enoch	5720	Awan
+Enos	5725	Azura
